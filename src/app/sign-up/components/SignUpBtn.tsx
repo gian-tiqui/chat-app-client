@@ -8,7 +8,6 @@ const SignUpBtn = () => {
 
   const increment = () => {
     setNum(1);
-    console.log(num);
   };
 
   return (
